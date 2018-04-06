@@ -213,12 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522786845640</updated>
       <workItem from="1523039122263" duration="36000" />
-      <workItem from="1523048797477" duration="146000" />
+      <workItem from="1523048797477" duration="1946000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182000" />
+    <option name="totallyTimeSpent" value="1982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="60" y="35" width="761" height="600" extended-state="0" />
@@ -258,6 +258,18 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/HybridGuard.java</url>
+          <line>19</line>
+          <properties />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ITIS6010-HybridGuardGUIProject.iml">
