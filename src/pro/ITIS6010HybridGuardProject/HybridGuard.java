@@ -10,7 +10,7 @@ public class HybridGuard extends AnAction {
 
     public HybridGuard()
     {
-
+        //comment
     }
 
     public void actionPerformed(AnActionEvent event) {
