@@ -1,6 +1,6 @@
 <idea-plugin>
-  <id>FadiYilmaz</id>
-  <name>HybridGuard</name>
+  <id>HybridGuard</id>
+  <name>HybridGuardS</name>
   <version>1.0</version>
   <vendor email="fyilmaz@uncc.edu" url="www.webpages.uncc.edu/fyilmaz">UNCC</vendor>
 
@@ -25,13 +25,12 @@
   -->
 
   <extensions defaultExtensionNs="com.intellij">
-    <!-- Add your extensions here -->
 
   </extensions>
 
   <actions>
     <group id="HybridGuard.Menu" text = "HybridGuard" description = "HybridGuard">
-      <add-to-group group-id="ProjectViewPopupMenuModifyGroup" anchor="last"/>
+      <add-to-group group-id="ProjectViewPopupMenu" anchor="last"/>
         <action id="HybridGuard.GUI" class="pro.ITIS6010HybridGuardProject.HybridGuard" text="HybridGuard"
                 description = "HybridGuard policy specification" />
 
