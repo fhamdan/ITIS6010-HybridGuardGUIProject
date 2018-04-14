@@ -8,11 +8,12 @@ public class GUI {
     private JList list1;
     private JTextArea explainPrincipalsHereTextArea;
 
-    private void createUIComponents() {
-        // TODO: place custom component creation code here
+    public static void main(String[] args) {
+        javax.swing.JFrame frame = new javax.swing.JFrame("GUI");
+        frame.setContentPane(new GUI().Window1);
+        frame.setDefaultCloseOperation(javax.swing.JFrame.EXIT_ON_CLOSE);
+        frame.pack();
+        frame.setVisible(true);
     }
 }
 
-    public static void main(String[] args) {
-
-    }
