@@ -7,7 +7,7 @@ public class GUI2 extends JDialog {
     private JButton Back;
     private JButton nextButton;
     private JTextArea explainResourcesHereTextArea;
-    private JTable table1;
+
 
 
 }

@@ -6,5 +6,5 @@ public class WelcomeWindow extends JDialog{
     private JTextArea introtext;
     private JPanel Welcome;
 
-   
+
 }

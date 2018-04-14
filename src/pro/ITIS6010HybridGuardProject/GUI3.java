@@ -6,7 +6,6 @@ public class GUI3 extends JDialog{
     private JButton back;
     private JButton finish;
     private JTextArea describewrx;
-    private JTable table1;
 
 
 }
