@@ -8,11 +8,5 @@ public class GUI3 extends JDialog{
     private JTextArea describewrx;
     private JTable table1;
 
-    public static void main(String[] args) {
-        JFrame frame = new JFrame("GUI3");
-        frame.setContentPane(new GUI3().Window3);
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        frame.pack();
-        frame.setVisible(true);
-    }
+
 }

@@ -9,12 +9,6 @@ public class GUI2 extends JDialog {
     private JTextArea explainResourcesHereTextArea;
     private JTable table1;
 
-    public static void main(String[] args) {
-        javax.swing.JFrame frame = new javax.swing.JFrame("GUI2");
-        frame.setContentPane(new GUI2().Window2);
-        frame.setDefaultCloseOperation(javax.swing.JFrame.EXIT_ON_CLOSE);
-        frame.pack();
-        frame.setVisible(true);
-    }
+
 }
 
