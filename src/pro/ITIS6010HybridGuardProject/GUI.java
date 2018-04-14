@@ -2,7 +2,7 @@ package pro.ITIS6010HybridGuardProject;
 
 import javax.swing.*;
 import java.awt.*;
-
+import com.intellij.openapi.ui.*;
 public class GUI{
     private JPanel Window1;
     private JButton Next;
@@ -15,5 +15,6 @@ public class GUI{
         frame.pack();
         frame.setVisible(true);
     }
+
 }
 

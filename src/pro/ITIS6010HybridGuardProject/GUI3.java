@@ -1,5 +1,6 @@
 package pro.ITIS6010HybridGuardProject;
 import javax.swing.*;
+import com.intellij.openapi.ui.*;
 public class GUI3 {
     private JPanel Window3;
     private JButton back;
