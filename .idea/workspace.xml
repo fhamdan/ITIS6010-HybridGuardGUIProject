@@ -24,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -93,12 +93,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GUI2.form" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GUI2.form" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI2.form">
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
-      <file leaf-file-name="GUI3.form" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GUI3.form" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form">
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
@@ -135,9 +135,9 @@
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI2.java" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.java" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.java" />
-        <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.form" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI2.form" />
+        <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form" />
       </list>
     </option>
   </component>
@@ -369,20 +369,19 @@
       <workItem from="1523468574832" duration="1503000" />
       <workItem from="1523545148033" duration="3281000" />
       <workItem from="1523669112434" duration="3134000" />
-      <workItem from="1523727199535" duration="4836000" />
+      <workItem from="1523727199535" duration="5526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13741000" />
+    <option name="totallyTimeSpent" value="14431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1453" height="783" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32935917" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32935917" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
@@ -394,7 +393,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12925643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12925643" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -730,7 +729,7 @@
     <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -743,9 +742,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form">
-      <provider selected="true" editor-type-id="ui-designer" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.form">
       <provider selected="true" editor-type-id="ui-designer" />
@@ -761,6 +757,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI2.form">
+      <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
   </component>
