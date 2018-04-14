@@ -37,8 +37,8 @@
       <file leaf-file-name="WelcomeWindow.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/WelcomeWindow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -52,11 +52,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GUI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="GUI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plugin.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -66,7 +78,7 @@
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
       </file>
-      <file leaf-file-name="GUI3.form" pinned="false" current-in-tab="true">
+      <file leaf-file-name="GUI3.form" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form">
           <provider selected="true" editor-type-id="ui-designer" />
         </entry>
@@ -89,6 +101,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>projec</find>
+      <find>add</find>
+      <find>depend</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -97,15 +116,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/HybridGuard.java" />
         <option value="$PROJECT_DIR$/out/production/ITIS6010-HybridGuardGUIProject/META-INF/plugin.xml" />
-        <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI2.java" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.java" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/WelcomeWindow.java" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/WelcomeWindow.form" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.form" />
-        <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.java" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI2.form" />
         <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form" />
+        <option value="$PROJECT_DIR$/resources/META-INF/plugin.xml" />
+        <option value="$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.java" />
       </list>
     </option>
   </component>
@@ -126,10 +145,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1854" />
-    <option name="y" value="-12" />
-    <option name="width" value="1522" />
-    <option name="height" value="1200" />
+    <option name="x" value="1430" />
+    <option name="width" value="1462" />
+    <option name="height" value="1552" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -143,6 +161,17 @@
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
               <item name="ITIS6010-HybridGuardGUIProject" type="cbb8eebc:String" user="ITIS6010-HybridGuardGUIProject" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ITIS6010-HybridGuardGUIProject" type="cbb8eebc:String" user="ITIS6010-HybridGuardGUIProject" />
+              <item name="resources" type="cbb8eebc:String" user="resources" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="ITIS6010-HybridGuardGUIProject" type="cbb8eebc:String" user="ITIS6010-HybridGuardGUIProject" />
+              <item name="resources" type="cbb8eebc:String" user="resources" />
+              <item name="META-INF" type="cbb8eebc:String" user="META-INF" />
             </path>
             <path>
               <item name="Root" type="cbb8eebc:String" user="Root" />
@@ -229,8 +258,9 @@
     <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="319" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
@@ -332,12 +362,12 @@
       <workItem from="1523468574832" duration="1503000" />
       <workItem from="1523545148033" duration="3281000" />
       <workItem from="1523669112434" duration="3134000" />
-      <workItem from="1523727199535" duration="1021000" />
+      <workItem from="1523727199535" duration="2832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9926000" />
+    <option name="totallyTimeSpent" value="11737000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1453" height="783" extended-state="6" />
@@ -440,6 +470,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -647,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -675,28 +701,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/WelcomeWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.form">
+    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form">
       <provider selected="true" editor-type-id="ui-designer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI2.form">
       <provider selected="true" editor-type-id="ui-designer" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI3.form">
+    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.form">
       <provider selected="true" editor-type-id="ui-designer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="35" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/WelcomeWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pro/ITIS6010HybridGuardProject/GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -727,6 +763,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>src</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -738,7 +775,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>IntelliJ IDEA IU-181.4445.78</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
