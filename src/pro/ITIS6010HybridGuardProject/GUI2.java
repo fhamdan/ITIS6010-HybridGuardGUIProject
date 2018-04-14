@@ -3,11 +3,11 @@ package pro.ITIS6010HybridGuardProject;
 import javax.swing.*;
 
 public class GUI2 {
-    private JList list1;
     private JPanel Window2;
     private JButton Back;
     private JButton nextButton;
     private JTextArea explainResourcesHereTextArea;
+    private JTable table1;
 
     public static void main(String[] args) {
         javax.swing.JFrame frame = new javax.swing.JFrame("GUI2");
