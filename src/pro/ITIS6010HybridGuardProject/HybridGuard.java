@@ -18,11 +18,11 @@ import javax.swing.*;
 
 public class HybridGuard extends AnAction implements ToolWindowFactory{
 
-    private JButton refreshToolWindowButton = new JButton ("Refresh");
-    private JButton hideToolWindowButton=new JButton("Hide");
-    private JLabel currentDate = new JLabel("Date");
-    private JLabel currentTime = new JLabel ("Time");
-    private JLabel timeZone = new JLabel ("TimeZone");
+    private JButton refreshToolWindowButton;
+    private JButton hideToolWindowButton;
+    private JLabel currentDate;
+    private JLabel currentTime;
+    private JLabel timeZone;
     private JPanel myToolWindowContent;
 
     private ToolWindow myToolWindow;
@@ -80,5 +80,9 @@ public class HybridGuard extends AnAction implements ToolWindowFactory{
     public void currentDateTime() {
         currentDate.setText("aa");
     }
+    public void createGUIs(String message) {
+        WelcomeWindow mp = new WelcomeWindow();
 
+
+    }
 }
